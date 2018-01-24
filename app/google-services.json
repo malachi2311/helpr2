@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "652443682342",
+    "firebase_url": "https://helpr-838e7.firebaseio.com",
+    "project_id": "helpr-838e7",
+    "storage_bucket": "helpr-838e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652443682342:android:88c970493cf73bc9",
+        "android_client_info": {
+          "package_name": "com.cipherflux.malac.helpr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652443682342-l44eum7f3l2hk10d3dd5257j88qph35d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6mBXyAKMdDJCIs6cS673f3TQ24DOYE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
